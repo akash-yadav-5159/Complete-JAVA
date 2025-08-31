@@ -36,5 +36,4 @@ This course is perfect for:
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/java-dsa-course.git
-
+https://github.com/akash-yadav-5159/Complete-JAVA
